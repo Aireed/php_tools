@@ -1,0 +1,4 @@
+1:phpcms 多图上传，采用swfupload 
+2:phpcms 在线编辑，采用ueditor
+3:php 发邮件,用phpmailer
+4:php 生成二维码，用phpqrcode
